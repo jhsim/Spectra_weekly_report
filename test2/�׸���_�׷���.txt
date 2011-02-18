@@ -1,0 +1,296 @@
+
+{file_content=<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+<table border="1">
+<tr><th class="none"     textWidth="100"  align="center" level="1" ><div style=" width:99px; " ><nobr>구분</nobr></div></th>
+<th class="none"     align="center" level="1" ><div style=" width:39px;" ><nobr>전사</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>수원</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>청주</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>대구</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>경남</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>상암</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>화성</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>마포</nobr></div></th>
+</tr>
+<tr><td class="none" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+</tr>
+</table>
+
+</body>
+</html>
+, grid_control=<table  width="0" height="300" id="gridcontrol.frame" class="report-grid-frame" >
+<tr>
+<td align="left" width="100" height="20" valign="top" id="gridcontrol.frame.cHeader">
+  <div id="gridcontrol.layer.cHeader"   style="overflow:visible; width:100px; " >
+<table width="100" id="gridcontrol.cHeader" class="report-grid" >
+<tr>
+<th class="border" id="gridcontrol.frame.cross.cross.0"    textWidth="0"  width="0"  align="center" level="0" ><div style=" width:-1px; " ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.cross.horz.1"    textWidth="100"  width="100"  align="center" level="1" ><div style=" width:99px; " ><nobr></nobr></div></th>
+</tr>
+<tr>
+<th class="none" id="gridcontrol.frame.cross.vert.1"    textWidth="0"  align="center" level="0" ><div style=" width:-1px; " ><nobr></nobr></div></th>
+<th class="none"     textWidth="100"  align="center" level="1" ><div style=" width:99px; " ><nobr>구분</nobr></div></th>
+</tr>
+</table>
+
+  </div>
+</td>
+<td align="left"  width="-100" height="20" valign="top" id="gridcontrol.frame.hHeader">
+  <div id="gridcontrol.layer.hHeader"   style="overflow:hidden; width:-117px;; border-right: 1px solid #99a8c7;">
+<table width="336" id="gridcontrol.hHeader" class="report-grid" >
+<tr>
+<th class="border" id="gridcontrol.frame.horz.cross.0"    textWidth="0"  width="0"  align="center" level="0" ><div style=" width:-1px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.1"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.2"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.3"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.4"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.5"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.6"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.7"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.horz.horz.8"    textWidth="40"  width="40"  align="center" level="0" ><div style=" width:39px;" ><nobr></nobr></div></th>
+<th class="hscroll" rowspan="2" width="16" > &nbsp; </th></tr>
+<tr>
+<th class="none" id="gridcontrol.frame.horz.vert.1"    textWidth="0"  align="center" level="1" ><div style=" width:-1px;" ><nobr></nobr></div></th>
+<th class="none"     align="center" level="1" ><div style=" width:39px;" ><nobr>전사</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>수원</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>청주</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>대구</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>경남</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>상암</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>화성</nobr></div></th>
+<th class="left"     align="center" level="1" ><div style=" width:39px;" ><nobr>마포</nobr></div></th>
+</tr>
+</table>
+
+  </div>
+</td>
+</tr>
+<tr>
+<td align="left" width="100" height="280" valign="top"  id="gridcontrol.frame.vHeader">
+  <div id="gridcontrol.layer.vHeader"    style="overflow:hidden; width:100px; height:263px;; border-bottom: 1px solid #99a8c7; " >
+<table width="100" id="gridcontrol.vHeader" class="report-grid" >
+<tr>
+<th class="border" id="gridcontrol.frame.vert.cross.0"    textWidth="0"  width="0"  align="center" level="0" ><div style=" width:-1px; " ><nobr></nobr></div></th>
+<th class="border" id="gridcontrol.frame.vert.horz.1"    textWidth="100"  width="100"  align="center" level="1" ><div style=" width:99px; " ><nobr></nobr></div></th>
+</tr>
+<tr>
+<th class="none" id="gridcontrol.frame.vert.vert.1" colspan="2"   textWidth="0"  align="center" level="0" ><div style=" width:-1px; " ><nobr></nobr></div></th>
+</tr>
+<tr><th class="vscroll" colspan="2">&nbsp;</th></tr></table>
+
+  </div>
+</td>
+<td align="left" width="-100" height="280" valign="top"  id="gridcontrol.frame.body">
+  <div id="gridcontrol.layer.body"    style="overflow-x: auto; overflow-y: scroll; width:-100px; height:280px; " >
+<table id="gridcontrol.body" width="320" class="report-grid">
+<tr>
+<td class="border"  width="0"  textWidth="0" id="gridcontrol.frame.body.cross.0"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.1"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.2"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.3"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.4"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.5"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.6"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.7"></td>
+
+<td class="border"  width="40"  textWidth="40" id="gridcontrol.frame.body.horz.8"></td>
+
+</tr>
+<tr>
+<td class="vborder" id="gridcontrol.frame.body.vert.1"></td>
+<td class="none" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+<td class="left" align="right" valign="bottom" nowrap ><div class="report-grid-datacell">0</div></td>
+
+</tr>
+</table>
+
+  </div>
+</td>
+</tr>
+</table>
+}----------retMap
+[[Ljava.lang.String;@fe2509----------hHeader
+[[Ljava.lang.String;@131767b----------hCaption
+[[Ljava.lang.String;@59b924----------vHeader
+[[Ljava.lang.String;@89f3e5----------vCaption
+[[Ljava.lang.String;@eb607d----------cCaption
+null----------data
+
+
+
+
+values값
+0-----2391
+0-----2391
+0-----2391
+0-----2391
+0-----2391
+0-----2391
+0-----2391
+0-----2391
+
+List codeList = commonDao.selectCodeList(paramCode);	//전체/입주실/.. 
+[codeId/ codeset_id/ parent_id/ code_name/ depth/ report_code/ code_value/ sort_order/delete_flag
+CODE0000071576	CSET0000000094	CODE0000071575	전체	2	CODE0000071576		1	N
+CODE0000071577	CSET0000000094	CODE0000071575	입주민	2	CODE0000071577		2	N
+CODE0000071578	CSET0000000094	CODE0000071575	기계실	2	CODE0000071578		3	N
+
+
+paramCode	ParamMap  (id=117)	 --> {codesetid=CSET0000000094}
+
+
+String[][] vHeader = getReportRawData(codeList, new String[] {"code_id"}); --> [[CODE0000071576], [CODE0000071577], [CODE0000071578]]
+String[][] vCaption = getReportRawData(codeList, new String[] {"code_name"}); --> [[전체], [입주민], [기계실]]
+
+
+// 가로헤더 : 지사 list
+        ParamMap p2 = new ParamMap();
+        p2.put("year", year);
+        p2.put("seq", seq);
+        p2.put("csiId", csiId);
+
+p2	ParamMap  (id=158)	--> {year=2010, seq=0, csiid=PCSI}
+
+List branchList = csiItemDao.selectCsiBranchList(p2); --> [{ref_id=303, csi_item_pk=CSPK0000000839, sort_order=5, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000392, name=고양, delete_flag=N}, {ref_id=305, csi_item_pk=CSPK0000000840, sort_order=6, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000393, name=수원, delete_flag=N}, {ref_id=501, csi_item_pk=CSPK0000000841, sort_order=7, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000394, name=청주, delete_flag=N}, {ref_id=401, csi_item_pk=CSPK0000000842, sort_order=8, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000395, name=대구, delete_flag=N}, {ref_id=409, csi_item_pk=CSPK0000000843, sort_order=9, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000396, name=경남, delete_flag=N}, {ref_id=204, csi_item_pk=CSPK0000000844, sort_order=10, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000397, name=상암, delete_flag=N}, {ref_id=307, csi_item_pk=CSPK0000000845, sort_order=11, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000398, name=화성, delete_flag=N}, {ref_id=209, csi_item_pk=CSPK0000000846, sort_order=12, csi_item_type=TYUSER, seq=0, depth=2, responder_type=null, dept_id=null, use_flag=Y, importance=null, csi_id=PCSI, year=2010, max_score=100, description=PCSI 지사, parent_id=CSIT0000000387, branch_flag=Y, csi_item_id=CSIT0000000399, name=마포, delete_flag=N}]
+
+String[][] hHeader = getReportRawData(branchList, new String[] {"csi_item_id"}); --> [[CSIT0000000392], [CSIT0000000393], [CSIT0000000394], [CSIT0000000395], [CSIT0000000396], [CSIT0000000397], [CSIT0000000398], [CSIT0000000399]]
+String[][] hCaption = getReportRawData(branchList, new String[] {"name"}); --> [[전사], [수원], [청주], [대구], [경남], [상암], [화성], [마포]]
+hCaption[0][0] = "전사";
+
+// Cross Header
+        String[][] cCaption = {{"구분"}}; --> [[구분]]
+
+//그래프//jhsim.
+        String branchId = getCsiItemRootId(csiId,  year,  seq,  ExtPublic.CSI_ITEM_TYPE.USER); --> CSIT0000000387
+String pcsiRootItemId = getCsiItemRootId(csiId,  year,  seq,  ExtPublic.CSI_ITEM_TYPE.CSI); --> CSIT0000000109
+String[] csiItemIdList = new String[] {pcsiRootItemId }; --> [CSIT0000000109]
+
+ParamMap surveyInfo = csiSurveyDao.selectCsiSurveyInfoByCsiIdYearSeq(param); --> {survey_id=CSVY0000000003, sample_count=null, seq=0, target=입주민, 기계실, updated_date=20100426131917, sampling_method=null, csi_id=PCSI, year=2010, term=2010.01.01 ~ 2010.12.31, etc=null, created_date=20100426131917, updated_by=sylee, delete_flag=N, created_by=sylee, method=null, organization=null}
+
+List dataList = csiReportDao.selectCsiResultReport(p);
+dataList	ArrayList<E>  (id=171)	 --> []
+
+String[] selectColumnList = new String[] {"responder_type","item_id","score"}; --> [responder_type, item_id, score]
+
+String[][] data = getReportRawData(dataList, selectColumnList); --> null
+int[] leftSideWidth = {100}; --> [100]
+int[] rightSideWidth = new int[hCaption.length]; --> [0, 0, 0, 0, 0, 0, 0, 0]
+
+String caption = hCaption[i][hCaption[0].length-1]; -->마포,,전사,,수원
+
+
+ReportGridModel model = getGridControl(retMap, hHeader, hCaption, vHeader, vCaption, cCaption,
+data,leftSideWidth, rightSideWidth,"center","center","center");
+getGridControl f5
+  
+String[] graphValues = getGridRowValues(model.getDisplayData(),0); --> [0, 0, 0, 0, 0, 0, 0, 0]
+
+
+setGraphControl > f5
+-->
+private void setGraphControl(ParamMap retMap, String[][] hCaption,
+			String[] graphValues, String[] colors,
+			String xAxisName, String yAxisName, String caption)
+-->hCaption 
+[[전사], [수원], [청주], [대구], [경남], [상암], [화성], [마포]]
+
+-->graphValues
+[0, 0, 0, 0, 0, 0, 0, 0]
+
+-->colors
+[cf99ff, c3f244, c3f244, c3f244, c3f244, c3f244, c3f244, c3f244]
+
+-->xAxisName
+지사
+
+-->yAxisName
+점수
+
+-->caption
+지사별 고객만족도
+
+-->retMap
+{file_content=<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+.......
+
+private void setGraphControl(ParamMap retMap, String[] captions, --> f5
+String chartXml =ChartUtil.createChart(arCategoryList, arDataSetList, arData,arColor, xAxisName,  yAxisName,  caption); --> f5
+createChart(categoryList,dataSetList,null,data,color, xAxisName,yAxisName,caption); --> f5
+
+categoryList --> [전사, 수원, 청주, 대구, 경남, 상암, 화성, 마포]
+dataSetList --> []
+dataSetShapeList --> null
+data --> [[0], [0], [0], [0], [0], [0], [0], [0]]
+
+
+categoryProperties	Properties[8]  (id=5501)는 아래 거치면서 
+
+categoryProperties = new Properties[categoryList.length];
+for (int i=0; i<categoryList.length; i++)
+{
+    categoryProperties[i] = new Properties();
+    categoryProperties[i].put("name", categoryList[i]);
+}
+
+--> [{name=전사}, {name=수원}, {name=청주}, {name=대구}, {name=경남}, {name=상암}, {name=화성}, {name=마포}]
+
+dataSetProperties는 아래거치면서
+dataSetProperties = new Properties[dataSetList.length];
+for (int i=0; i < dataSetList.length ; i++ )
+{
+    dataSetProperties[i] = new Properties();
+    dataSetProperties[i].put("seriesname", dataSetList[i]);
+    dataSetProperties[i].put("color", ChartUtil.getChartColor(i));
+    
+    if (dataSetShapeList!=null)
+    {
+    	if ("LINE".equals(dataSetShapeList[i]))
+    	{
+            dataSetProperties[i].put("parentYAxis", "S");
+            dataSetProperties[i].put("showValues", "0");
+    	}
+    }
+}
+
+--> [{color=AFD8F8, seriesname=}]
+

@@ -1,0 +1,37 @@
+계획
+1. jQuery UI v1.7.2 : http://ui.jquery.com/ 에서 Tabs, Button, DatePicker, Grid, Widget만 적용하기
+
+자바스크립트에서 해당 ID를 찾을 쓰는 구문을 제이쿼리로 한다면 
+document.getElementById("test") -> $("#test") 
+
+자바스크립트로 스타일을 변경하고 싶을때 
+document.getElementById("test").style.display = 'none' -> $("#test").css("display","none") 
+
+자바스크립트로 select box 안에 선택된 값을 찾을때 
+document.getElementById("test").options[document.getElementById("test").selectedIndex].value 
+-> $("#test option:selected").val() 
+
+자바스크립트로 checkbox 중 선택된거 알아올때 
+var ck = document.getElementByName("test"); 
+var str = ""; 
+for(var i = 0;i<ck.length;i++){ 
+    if(ck[i].chekced) 
+        str += ck[i].value + "|"; 
+} 
+-> 
+var str = ""; 
+$("#test:checked").each( 
+    str += $(this).val() + "|"; 
+); 
+
+jquery 장점 
+
+1. 가볍고 편리하다. 제이쿼리는 약 100kb 정도의 파일로 이루워져 있으며 우리가 웹환경에서 개발시미친듯이 for 문을 쓰고 
+if문을 쓰고 난리를 치던것을 초간단하게 몇줄로 해결할수 있다.(추후 예제를 통해서 알아보겠음) 
+
+2. 불필요한 소스를 줄일수 있다. 고로 깔끔한 UI가 재탄생한다. UI 개발자들도 적극 제이쿼리를 적용해서 만든다면 좀더 간결하고 멋진 소스들이 나올것으로 기대한다. 
+
+3. 웹표준과 타브라우저 효환성 용의 제이쿼리를 쓰면 왠만한건 FF나 IE에서 제대로 동작한다.(다른 브라우저는 잘모르니 패스) 
+
+4. 아주 편리한 ajax호출, 기존 ajax를 사용하려면 document.getElementById 에서 시작부터 브라우저별 XMLHTTP 까지 
+소스가 엄청 길어지는 것을 볼수 있는데 get방식, post방식 아주 간단하게 사용할수있다. 
